@@ -1,0 +1,11 @@
+[EXCEPTION] handleException at 12/9/2021 10:12:29 AM
+System.Exception: Conversion error (Subscribe to the CellValueConversionError event).
+   at DevExpress.Spreadsheet.Export.DataTableExporter.ExportWorksheetRow(Row modelRow, NativeWorksheet nativeWorksheet, DataTableExporterAction& exporterAction, IDataValueSetter setter)
+   at DevExpress.Spreadsheet.Export.DataTableExporter.Export()
+   at Century_MIS.CManager.ReadSpradValues()
+
+[EXCEPTION] handleException at 12/9/2021 6:16:34 PM
+System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at Century_MIS.Century_MIS.RestartApp() in D:\nikhil github\MT-Manage-Server\Century-MIS\Century-MIS.cs:line 104
+

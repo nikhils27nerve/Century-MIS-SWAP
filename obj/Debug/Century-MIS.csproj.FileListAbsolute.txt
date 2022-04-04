@@ -1,0 +1,24 @@
+C:\Users\Nikhils\source\repos\Century-MIS\bin\Debug\Century-MIS.exe.config
+C:\Users\Nikhils\source\repos\Century-MIS\bin\Debug\Century-MIS.exe
+C:\Users\Nikhils\source\repos\Century-MIS\bin\Debug\Century-MIS.pdb
+C:\Users\Nikhils\source\repos\Century-MIS\obj\Debug\Century-MIS.csproj.AssemblyReference.cache
+C:\Users\Nikhils\source\repos\Century-MIS\obj\Debug\Century_MIS.Century_MIS.resources
+C:\Users\Nikhils\source\repos\Century-MIS\obj\Debug\Century_MIS.Properties.Resources.resources
+C:\Users\Nikhils\source\repos\Century-MIS\obj\Debug\Century-MIS.csproj.GenerateResource.cache
+C:\Users\Nikhils\source\repos\Century-MIS\obj\Debug\Century-MIS.csproj.CoreCompileInputs.cache
+C:\Users\Nikhils\source\repos\Century-MIS\obj\Debug\Century-MIS.exe
+C:\Users\Nikhils\source\repos\Century-MIS\obj\Debug\Century-MIS.pdb
+D:\nikhil github\MT-Manage-Server\Century-MIS\obj\Debug\Century-MIS.csproj.AssemblyReference.cache
+D:\nikhil github\MT-Manage-Server\Century-MIS\obj\Debug\Century_MIS.Century_MIS.resources
+D:\nikhil github\MT-Manage-Server\Century-MIS\obj\Debug\Century_MIS.Properties.Resources.resources
+D:\nikhil github\MT-Manage-Server\Century-MIS\obj\Debug\Century-MIS.csproj.GenerateResource.cache
+D:\nikhil github\MT-Manage-Server\Century-MIS\obj\Debug\Century-MIS.csproj.CoreCompileInputs.cache
+D:\nikhil github\MT-Manage-Server\Century-MIS\obj\Debug\Century-MIS.exe
+D:\nikhil github\MT-Manage-Server\Century-MIS\obj\Debug\Century-MIS.pdb
+D:\nikhil github\MT-Manage-Server\Century-MIS\bin\Debug\Century-MIS.exe.config
+D:\nikhil github\MT-Manage-Server\Century-MIS\bin\Debug\Century-MIS.exe
+D:\nikhil github\MT-Manage-Server\Century-MIS\bin\Debug\Century-MIS.pdb
+D:\nikhil github\MT-Manage-Server\Century-MIS\bin\Debug\NerveLog.dll
+D:\nikhil github\MT-Manage-Server\Century-MIS\obj\Debug\Century-MIS.csproj.CopyComplete
+D:\nikhil github\MT-Manage-Server\Century-MIS\bin\Debug\MetaQuotes.MT5CommonAPI.dll
+D:\nikhil github\MT-Manage-Server\Century-MIS\bin\Debug\MetaQuotes.MT5ManagerAPI.dll

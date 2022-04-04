@@ -1,0 +1,4 @@
+[DEBUG] 3/9/2022 8:44:46 AM => Order dumped to MongoDB #48059 buy 0.1 AAPL at 157.440
+[DEBUG] 3/9/2022 8:44:47 AM => Order dumped to MongoDB #48059 buy 0.1 / 0.1 AAPL at 157.440
+[DEBUG] 3/9/2022 4:54:13 PM => Order dumped to MongoDB #48641 buy 1 NDX at market
+[DEBUG] 3/9/2022 4:54:13 PM => Order dumped to MongoDB #48641 buy 1 / 1 NDX at market

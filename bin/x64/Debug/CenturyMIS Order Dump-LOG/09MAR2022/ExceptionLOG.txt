@@ -1,0 +1,30 @@
+[EXCEPTION] handleException at 3/9/2022 8:35:28 AM
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Century_MIS.CManager.GetAllUsers() in D:\nikhil github\MT-Manage-Server\CenturyMIS_Swap\Century-MIS\Manager.cs:line 204
+
+[EXCEPTION] handleException at 3/9/2022 8:41:38 AM
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Century_MIS.CManager.GetAllUsers() in D:\nikhil github\MT-Manage-Server\CenturyMIS_Swap\Century-MIS\Manager.cs:line 204
+
+[EXCEPTION] handleException at 3/9/2022 8:44:22 AM
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Century_MIS.CManager.GetAllUsers() in D:\nikhil github\MT-Manage-Server\CenturyMIS_Swap\Century-MIS\Manager.cs:line 204
+
+[EXCEPTION] handleException at 3/9/2022 4:49:59 PM
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Century_MIS.CManager.GetAllUsers() in D:\nikhil github\MT-Manage-Server\CenturyMIS_Swap\Century-MIS\Manager.cs:line 204
+
+[EXCEPTION] handleException at 3/9/2022 4:51:25 PM
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Century_MIS.CManager.GetAllUsers() in D:\nikhil github\MT-Manage-Server\CenturyMIS_Swap\Century-MIS\Manager.cs:line 204
+
+[EXCEPTION] handleException at 3/9/2022 4:58:13 PM
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Century_MIS.CManager.GetAllUsers() in D:\nikhil github\MT-Manage-Server\CenturyMIS_Swap\Century-MIS\Manager.cs:line 204
+

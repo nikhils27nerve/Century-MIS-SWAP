@@ -1,0 +1,20 @@
+[EXCEPTION] handleException at 3/10/2022 7:37:44 AM
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Century_MIS.CManager.GetAllUsers() in D:\nikhil github\MT-Manage-Server\CenturyMIS_Swap\Century-MIS\Manager.cs:line 204
+
+[EXCEPTION] handleException at 3/10/2022 7:43:47 AM
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Century_MIS.CManager.GetAllUsers() in D:\nikhil github\MT-Manage-Server\CenturyMIS_Swap\Century-MIS\Manager.cs:line 204
+
+[EXCEPTION] handleException at 3/10/2022 7:45:52 AM
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Century_MIS.CManager.GetAllUsers() in D:\nikhil github\MT-Manage-Server\CenturyMIS_Swap\Century-MIS\Manager.cs:line 204
+
+[EXCEPTION] handleException at 3/10/2022 8:54:25 AM
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at Century_MIS.CManager.GetAllUsers() in D:\nikhil github\MT-Manage-Server\CenturyMIS_Swap\Century-MIS\Manager.cs:line 204
+
